@@ -1,7 +1,7 @@
 # Summary
 
 - [Introduction](./introduction.md)
-- [Traits and Generics](./coming_soon.md)
+- [Traits and Generics](./traits_generics.md)
   - [Auto traits](./coming_soon.md)
 - [Error Handling](./coming_soon.md)
 - [Idiomatic Rust](./coming_soon.md)
