@@ -1,6 +1,0 @@
-[book]
-authors = ["Michael Gattozzi"]
-language = "en"
-multilingual = false
-src = "src"
-title = "The Rust Grimoire: Intermediate Knowledge for Rustaceans"
